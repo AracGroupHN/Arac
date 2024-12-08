@@ -10,5 +10,13 @@
 "YojanaZ92": {
 "name": "Yojana Godoy",
 "password": "110592"
+},
+"OtroUsuario1": {
+"name": "Otro Nombre 1",
+"password": "otracontraseña1"
+},
+"OtroUsuario2": {
+"name": "Otro Nombre 2",
+"password": "otracontraseña2"
 }
 }
