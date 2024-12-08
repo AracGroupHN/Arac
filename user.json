@@ -1,10 +1,10 @@
 {
-    "AngelA89": {
-        "name": "Angel Avila",
-        "password": "2210"
+    "user1": {
+        "name": "John",
+        "password": "password123"
     },
-    "YojanaZ95": {
-        "name": "Yojana Zepeda",
-        "password": "2210"
+    "user2": {
+        "name": "Jane",
+        "password": "password456"
     }
 }
