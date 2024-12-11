@@ -2,12 +2,12 @@
 "usuarios": [
 {
 "nombre": "Angel",
-"aportacion": 7000.0,
+"aportacion": 5000.0,
 "distribucion": 1.0
 },
 {
 "nombre": "Norman",
-"aportacion": 5000.0,
+"aportacion": 3000.0,
 "distribucion": 0.5
 },
 {
