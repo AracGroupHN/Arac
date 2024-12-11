@@ -8,13 +8,13 @@
   "NormanS95": {
   "name": "Norman Sosa.",
   "password": "120995",
-  "aportacion": 3000.0,
-  "distribucion": 1.0
+  "aportacion": 5000.0,
+  "distribucion": 0.5
   },
   "YojanaZ92": {
   "name": "Yojana Godoy.",
   "password": "110592",
   "aportacion": 2000.0,
-  "distribucion": 1.0
+  "distribucion": 0.5
   }
   }
