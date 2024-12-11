@@ -3,17 +3,17 @@
 {
 "nombre": "Angel",
 "aportacion": 7000.0,
-"distribucion": 0.5
+"distribucion": 0.1
 },
 {
 "nombre": "Norman",
 "aportacion": 5000.0,
-"distribucion": 0.5
+"distribucion": 0.1
 },
 {
 "nombre": "Genesis",
 "aportacion": 2000.0,
-"distribucion": 0.5
+"distribucion": 0.1
 }
 ]
 }
