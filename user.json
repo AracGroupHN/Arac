@@ -1,22 +1,21 @@
 {
-"AngelA89": {
-"name": "Angel Avila.",
-"password": "221089"
-},
-"NormanS95": {
-"name": "Norman Sosa.",
-"password": "120995"
-},
-"YojanaZ92": {
-"name": "Yojana Godoy.",
-"password": "110592"
-},
-"IrvingM89": {
-"name": "Irvin Martel.",
-"password": "170889"
-},
-"YennyS96": {
-"name": "Jenny Salinas.",
-"password": "otracontraseña2"
-}
-}
+  "AngelA89": {
+  "name": "Angel Avila.",
+  "password": "221089",
+  "aportacion": 7000.0,
+  "distribucion": 1.0
+  },
+  "NormanS95": {
+  "name": "Norman Sosa.",
+  "password": "120995",
+  "aportacion": 3000.0,
+  "distribucion": 1.0
+  },
+  "YojanaZ92": {
+  "name": "Yojana Godoy.",
+  "password": "110592",
+  "aportacion": 2000.0,
+  "distribucion": 1.0
+  }
+  }
+  
