@@ -2,19 +2,19 @@
     "AngelA89": {
     "name": "Angel Avila.",
     "password": "221089",
-    "aportacion": 0.15,
+    "aportacion": 0.05,
     "distribucion": 1.0
     },
     "NormanS95": {
     "name": "Norman Sosa.",
     "password": "120995",
-    "aportacion": 0.10,
+    "aportacion": 0.02,
     "distribucion": 0.5
     },
     "YojanaZ92": {
     "name": "Yojana Godoy.",
     "password": "110592",
-    "aportacion": 0.05,
+    "aportacion": 0.01,
     "distribucion": 0.5
     }
     }
