@@ -1,10 +1,6 @@
 {
-    "not": {
-        "description": "Capital Binance",
-        "capital interno": 5000
-    },
-    "yes": {
-        "api_key": "iCru9RNdrPJlw6OoFXhCdnKXz75j5j86uNSU0UtSOy4HBAowpumAcHBHbnLWEtEE",
-        "api_secret": "F5IGbYMS043lqVcRnaZbXBig0YwZbPqCjSWUpe6qYQGZ4IOuEwMTwhAHLTARChkc"
-    }
+  "api_key": "tu_api_key",
+  "api_secret": "tu_api_secret",
+  "use_api_balance": true,
+  "manual_balance": 100.0
 }
